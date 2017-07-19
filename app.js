@@ -1,6 +1,7 @@
 
 var movie = require("./movie");
 
+// not only my favorite, but the 3 best movies ever:
 var threeFavoriteMovies = [
   'The Princess Bride',
   'Shaun the Sheep Movie',
